@@ -28,7 +28,7 @@ Through this project, you will be able to deploy an EC2 instance in a VPC using 
 
 
 
-<h2>Database and Containers walk-through:</h2>
+<h2>AWS Cloud Automation Using Terraform walk-through:</h2>
 
 - <b>Install Terraform using Homebrew inside your home directory</b>
 - <b>Create a user under IAM service and attach required policies</b>
